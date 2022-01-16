@@ -1,0 +1,9 @@
+﻿**Serkan Not**
+-KayitOlForm.cs'deki KaloriSayımınıBaslat butonunu KullaniciAnasayfaForm.cs'ye al
+-şu an kullanıcıadı ve şifre güncellemesi yapılamıyor sadece diğer bilgiler güncellenebiliyor onu bir düşün (öneri: güncelle butonu da kullanıcı anasayfaya alınabilir).
+-bunlar dışında form1 ve kayitOlForm.cs'in eksiği kalmadı gibi diğer class'lara geçilebilir
+-KullanıcıAnasayfaForm'dan BugunNeYedimForm'a gidilcek ordan eklenen yemekler günün tarihi ile KullanıcıAnasayfaFormDaki datagridview'de görünecek
+-seçili tarihe göre geçmiş raporlar ve en çok tüketilen yemekler gösterilecek
+-gün içinde yanlış bir yemek girişi yapılırsa diye silme butonu olsun düzenlemeye gerek yok.
+
+**Bilge Not**
